@@ -6,7 +6,6 @@ Interactive Medicaid dental procedure map across Massachusetts ZIPs. Built with 
 
 ```bash
 npm install
-cp .env.example .env.local
 # Add protomaps API key to .env.local
 npm run dev
 ```
